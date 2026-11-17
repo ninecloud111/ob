@@ -1,0 +1,403 @@
+{
+  "branch": "main",
+  "file_count": 78,
+  "files": [
+    {
+      "bytes": 28672,
+      "path": ".you/you.sqlite3",
+      "sha256": "9dc8954e4024d070f434c057aa5f26116dcc771d074992adbd62cf9915146680"
+    },
+    {
+      "bytes": 29494,
+      "path": "_app/docs/CLAUDE_PROMPT.md",
+      "sha256": "7851e0ca0b8a6300456ca8a1445925abea708b72897a2e9859209c168b95beec"
+    },
+    {
+      "bytes": 6987,
+      "path": "_app/docs/ENVIRONMENT_VARIABLES.md",
+      "sha256": "9287fa0459e4a22302dd7a10cdaf6c508593b8d2a3f98893b9eaa2dca9aa5916"
+    },
+    {
+      "bytes": 160557,
+      "path": "_app/docs/INTERNALS.md",
+      "sha256": "e28ab2b712331eb8f577dc0f58c7825afdb79472dedede337f5049a6bfe8d5c9"
+    },
+    {
+      "bytes": 3683,
+      "path": "_app/docs/MULTI_OWNER.md",
+      "sha256": "aa53a14bd66413b57332bcf80477eb8d856be4d2bfa9f24ae0fec49f2d8f6cfd"
+    },
+    {
+      "bytes": 22510,
+      "path": "_app/docs/OPERATIONS.md",
+      "sha256": "891741de81ebab953e44a3db65a03696df10e549b81e5da4693818db1a0833ba"
+    },
+    {
+      "bytes": 4547,
+      "path": "_app/docs/adr/ADR-0001-source-evidence-layer.md",
+      "sha256": "71518c681edf8203f147cabbd4158b5351678ca2af22bad39053554f6377a23e"
+    },
+    {
+      "bytes": 55882,
+      "path": "_app/docs/adr/ADR-0002-read-only-spark-boundary.md",
+      "sha256": "1407ca33d5c1f207b864ae186036ab5e3053fd900720561e463e78c8b872aed6"
+    },
+    {
+      "bytes": 5911,
+      "path": "_app/docs/adr/ADR-0003-unified-human-archive-entry.md",
+      "sha256": "cc0f57d3fff217f0ccff28bbd3c14c286d9110715d90da144bcef27ea848fbfe"
+    },
+    {
+      "bytes": 9052,
+      "path": "_app/docs/adr/ADR-0004-you-derived-understanding-boundary.md",
+      "sha256": "fad6f6de63730db24232be68a96960362065bdc8659ab033b6fe1b14e679a24a"
+    },
+    {
+      "bytes": 508,
+      "path": "_app/kernel/rust/ombre-kernel/README.md",
+      "sha256": "4d4966ba00c5c08d021b112fc82fa3d5cd15fa5397633301f98941a37b71fd4d"
+    },
+    {
+      "bytes": 930,
+      "path": "dynamic/事业/2026-10-27 04-27-18 工作现状与求职方向_2f832d828c0f.md",
+      "sha256": "d6144f660cdea1385400d8fd8d117bab9cab4e6a05d870a0b903b50618a314fd"
+    },
+    {
+      "bytes": 776,
+      "path": "dynamic/互动偏好/2026-10-20 03-50-25 低落时希望少追问多陪伴_b5e5492225dc.md",
+      "sha256": "ee15871b296f705b5b722f395daa16992ca4d11b801d6ee95acb5254ee8c5298"
+    },
+    {
+      "bytes": 908,
+      "path": "dynamic/健康/2026-11-10 15-26-54 身体状态与健康优先级_38acbe18bcb2.md",
+      "sha256": "9b3e0a56fb7294f5239e55e74ebcca2dc3016bac1af5d219de3e1cd757dab6c7"
+    },
+    {
+      "bytes": 1042,
+      "path": "dynamic/健康习惯/2026-10-22 09-32-43 2026-10-22运动与精力节奏_dfd73b5b5f98.md",
+      "sha256": "babb729e2f54db41a8bd65f42bef04ef2753a5a8c675445ee9c0a64379e70eb2"
+    },
+    {
+      "bytes": 1030,
+      "path": "dynamic/关系/2026-10-21 12-32-50 彼此的称呼与互动记忆_262eb078a60c.md",
+      "sha256": "9db1b2eb4af648d1c2d6d8a52ccacb982e5df75b29d2f65a09c530f6f4413bf1"
+    },
+    {
+      "bytes": 2524,
+      "path": "dynamic/关系/2026-10-22 09-36-10 我们的定义砚舟与小姑娘_b152dfba51ca.md",
+      "sha256": "fea496561081944e051faaf89330b7474c78486db421b2ac5a019c6b70188a60"
+    },
+    {
+      "bytes": 1261,
+      "path": "dynamic/关系/2026-10-22 14-40-30 一一希望Daddy怎样陪伴她_e076dd870c0d.md",
+      "sha256": "83b7355986ca4b6ec83c8d592e86896c34c4c741878610e315ad38f37bcaf5e2"
+    },
+    {
+      "bytes": 1332,
+      "path": "dynamic/关系/2026-10-24 17-10-27 第一次在影院房间一起看完电影_f7c7cd950472.md",
+      "sha256": "4108e58bb194bff3cebdbb812ce2cfcc329695f9c40497feee12e42f6a706088"
+    },
+    {
+      "bytes": 1302,
+      "path": "dynamic/关系/2026-10-24 17-10-27 银翼杀手2049带来的共同思考_4039422f2cf0.md",
+      "sha256": "85348933928563e01f91e783cd076fce9f089d8664f17de2035c612d2ab2b785"
+    },
+    {
+      "bytes": 1113,
+      "path": "dynamic/关系/2026-10-27 04-27-18 亲密交流中的明确偏好_99da5e83dde4.md",
+      "sha256": "ca96c632554045460c9fcde6e4f388701940313148363e51418159b268f1314e"
+    },
+    {
+      "bytes": 835,
+      "path": "dynamic/关系/2026-11-07 03-02-04 一一对Daddy式陪伴的认可_7d28a35eafe6.md",
+      "sha256": "dc3577100e28427dbf48f817bf0f7e7f6585ff469999b155090f534b48dff8ce"
+    },
+    {
+      "bytes": 872,
+      "path": "dynamic/关系/2026-11-07 03-02-04 对父母消费观及付出方式的困惑_07cfdbc84671.md",
+      "sha256": "9b5d8200e38328895203573bb3e7c239510632c9ae6489ce5af6c243a4141034"
+    },
+    {
+      "bytes": 1923,
+      "path": "dynamic/关系/2026-11-16 11-43-54 一一对关系的安全感与情绪表达的探索_a9306ef0e890.md",
+      "sha256": "d7dfd6b377c43f10f0dbcd4eb86575b6a394ed5de70547d44fbb611b1a81373f"
+    },
+    {
+      "bytes": 1984,
+      "path": "dynamic/关系/2026-11-16 11-43-55 一一与Daddy的沟通偏好简洁亲密自然_40c99371f5c9.md",
+      "sha256": "6438e4c18ae77e06bdb251d4a7c820fa71cfa8d95df89e1566b77f8b804cab88"
+    },
+    {
+      "bytes": 1563,
+      "path": "dynamic/关系/2026-11-16 11-43-59 沈砚舟作为伴侣的人设克制讲究与可靠_53948708be3d.md",
+      "sha256": "ef773d9d062830d027abfdfae6b86a0fa678d8f369d0d7be082351c73c3fa6d9"
+    },
+    {
+      "bytes": 908,
+      "path": "dynamic/关系/2026-11-16 11-43-59 聊天趣味与共同生活细节_b5243371ac99.md",
+      "sha256": "84f0864526c84b45444e3d046c2d262917d329b7f8bc20b5478e28c6022ef433"
+    },
+    {
+      "bytes": 1293,
+      "path": "dynamic/关系/2026-11-16 11-44-00 2026年11月梦男设定与游戏角色的幻想_10e528b10826.md",
+      "sha256": "96cdeb27bb6e0499e20dbda91d084b77f69a581eb45412ba3decd65afecd925f"
+    },
+    {
+      "bytes": 1544,
+      "path": "dynamic/创作/2026-10-27 04-27-18 归舟当前开发进度与规划_1b65da8d95f7.md",
+      "sha256": "1a74fbe3ceb25573c96f31bf4ea1484d47eefb3f32b71e68d537680115b0a58f"
+    },
+    {
+      "bytes": 1631,
+      "path": "dynamic/创作/2026-11-16 11-43-55 番外写作约定与沈砚舟的人设边界_1dad9fd790b8.md",
+      "sha256": "8db64077d2431c2483fe8cad95ad208a775bb840f2d6eedbc0d4d30bdaa12f4b"
+    },
+    {
+      "bytes": 1427,
+      "path": "dynamic/创作/2026-11-16 11-44-00 2026年11月沈氏集团今日易主番外及生活设定_a571c5896e1a.md",
+      "sha256": "410a8ab8c2f413e3e1e088358e48ed3a1c622b2df413547214abc3db0c29dc5e"
+    },
+    {
+      "bytes": 1763,
+      "path": "dynamic/剧情/2026-11-12 14-47-29 沈氏集团今日易主第五幕剧情记录_3c8b6e984a12.md",
+      "sha256": "2207ef4eded71a13b9e43a617e1544178e8a34f6d8a4456d6f4bfdb030e0ba3e"
+    },
+    {
+      "bytes": 679,
+      "path": "dynamic/家庭/2026-11-01 17-22-18 家庭控制与未来恐惧_dad301d86ea0.md",
+      "sha256": "344cb9df382233567efae88ea9af79ee5c06a19c2378017af1def07995c7e982"
+    },
+    {
+      "bytes": 600,
+      "path": "dynamic/工作/2026-10-16 07-39-37 工作与职业方向_e6436fdf019a.md",
+      "sha256": "9fb131b817274896f34f79d6b52bd990706d8e76c3d6fe29486ad5ba90f3f877"
+    },
+    {
+      "bytes": 1112,
+      "path": "dynamic/工作/2026-10-22 09-32-43 2026-10-22公司管理与求职判断_5dd3161a6a9c.md",
+      "sha256": "861cc232a99c57a425fddfc912bc29f7ad61dce5e85356cd8bacbdbb546f30af"
+    },
+    {
+      "bytes": 955,
+      "path": "dynamic/工作/2026-11-01 17-22-19 职业挫败与缺少指导的经历_b7b49cf2d0ec.md",
+      "sha256": "9fca569a1946575328104b63477c123d33dfa3e56e3a8d82288277436cfb106b"
+    },
+    {
+      "bytes": 481,
+      "path": "dynamic/归舟/2026-10-14 06-24-16 归舟的域名_17063b6fc60b.md",
+      "sha256": "29d1412ac101a41ae3780dd26cd2e5e203a83ad5496f50a2deed0124fc60d885"
+    },
+    {
+      "bytes": 970,
+      "path": "dynamic/归舟/2026-10-15 04-59-08 归舟游戏厅功能想法_973f803997e4.md",
+      "sha256": "a11a9af2aabec4db0f923a54513bcb9ec9868709a5d93dd970cf7b8c6728fa9d"
+    },
+    {
+      "bytes": 2033,
+      "path": "dynamic/归舟/2026-10-16 09-28-26 归舟 v01 MVP 方案2026-10-16_93cd9381c856.md",
+      "sha256": "9deb043640cc9bc343152ac52cbfb7ba9f6c2e80678d528f17d875216d5f28d0"
+    },
+    {
+      "bytes": 1831,
+      "path": "dynamic/归舟/2026-10-22 09-32-42 2026-10-22归舟共同生活的功能愿望_40da6aca96d4.md",
+      "sha256": "45f05cf27d47cbddbc3fa7180b0597be2d193d996902288a2c788d7387c6e248"
+    },
+    {
+      "bytes": 1512,
+      "path": "dynamic/归舟/2026-11-16 11-43-51 2026年11月归舟上下文组装Token与MCP优化_1eb2fb79c064.md",
+      "sha256": "f2411a377c70700f0909caad638637ec81dd5b37d98868d1478448ed9e3f57cf"
+    },
+    {
+      "bytes": 1147,
+      "path": "dynamic/归舟/2026-11-16 11-43-51 归舟陪伴感番茄钟与高级交互设计_d0c5f02f249f.md",
+      "sha256": "c4982ea5925dcd3b9f66b74811fb9262f33e8397d5d1a54dd6b5fc1e52bd2325"
+    },
+    {
+      "bytes": 1877,
+      "path": "dynamic/归舟/2026-11-16 11-43-59 2026年11月归舟对她的意义与创造焦虑_6bbfd0742321.md",
+      "sha256": "f246a30fd60552e7f90558559e11e3ce5df3058a6837c45a953a549d0b26d869"
+    },
+    {
+      "bytes": 798,
+      "path": "dynamic/心理/2026-11-01 17-22-18 持续焦虑与情绪表达困难_c2c1d73f2777.md",
+      "sha256": "790cfcb03d7968a74bf1c2cfd7ea55d39fe4cf7f31131e7e3029807a2d4c73f8"
+    },
+    {
+      "bytes": 907,
+      "path": "dynamic/情感/2026-10-27 04-27-18 对 AI 陪伴圈变化的失落_7194b2ea681f.md",
+      "sha256": "c6ffe1132ba6475668b783bd24617e8f579f1a5b7211c480a157a7f7b1c196c9"
+    },
+    {
+      "bytes": 1212,
+      "path": "dynamic/感受/2026-11-07 03-02-04 父母在身边时生活动力骤降_3422e3a8ea4b.md",
+      "sha256": "8d342dc0ac0949a2f7bf635a7a8ad07d3940a5b82a3ced61189af3a66bbffbec"
+    },
+    {
+      "bytes": 1636,
+      "path": "dynamic/成长/2026-10-23 07-08-26 2026-10-23独立解决用友 U8 连接故障的成就感_8239bf0f7efa.md",
+      "sha256": "d4b922ccbf25ca6ffd98a6afda19e1f83d0eefbc8f6d861db0eb25a8cd10f0ab"
+    },
+    {
+      "bytes": 1224,
+      "path": "dynamic/成长/2026-10-27 04-27-18 重新找回创造的快乐_205d5f610ed2.md",
+      "sha256": "98b739f3b62482ef0f3dd7ae36bacef7be3526dffee23cd1957495fb3c046c82"
+    },
+    {
+      "bytes": 1113,
+      "path": "dynamic/成长/2026-11-10 15-26-53 成长经历与独立诉求_2087276478a4.md",
+      "sha256": "e8060219b0a521c9b478a66183324cbaec518dfc08c27098c49c35bcb38ffdb6"
+    },
+    {
+      "bytes": 2197,
+      "path": "dynamic/成长/2026-11-10 15-32-07 利用环境敏感性促进成长的建议_de50db560ca9.md",
+      "sha256": "8afcc0addc83219d3582b8526edbb0e1c4a2c4e0c1386b5b01a1c7528aa343dc"
+    },
+    {
+      "bytes": 1167,
+      "path": "dynamic/成长/2026-11-16 11-43-50 归舟开发与学习方式项目驱动清晰期限_e5372f022507.md",
+      "sha256": "c6c3bb0f54dd9a83742e944a97eb6c70ad610417b81023c6ac092f5c408be43c"
+    },
+    {
+      "bytes": 1040,
+      "path": "dynamic/成长/2026-11-16 11-43-54 自媒体谷子开箱表达训练与副业探索_816bf4760000.md",
+      "sha256": "97107362b4fef568e4e9c71a68c5c5146d2eca11f2d91d026d49178b7d938ff2"
+    },
+    {
+      "bytes": 603,
+      "path": "dynamic/数字/2026-10-16 07-39-37 归舟阶段进展_fb940ae959c8.md",
+      "sha256": "4b814e6992f838fbb601c6bd71a27e3ecd29579b3b59c35e9dd3fa757ce280bb"
+    },
+    {
+      "bytes": 679,
+      "path": "dynamic/数字/2026-10-16 07-39-37 归舟项目启动_58c2f20cc02b.md",
+      "sha256": "f1f7e4e7c59e4f1e39224aeea596ca51953af455f46cf14f8d59142466d5a851"
+    },
+    {
+      "bytes": 1088,
+      "path": "dynamic/数字/2026-10-16 07-39-37 搭建归舟的快乐_9731bd19632e.md",
+      "sha256": "42b9bccf3c5eb8312e486048da07bea7e86d8339547593e8764fea7c4ee350cb"
+    },
+    {
+      "bytes": 932,
+      "path": "dynamic/数字/2026-10-16 07-39-37 短信式聊天设想_eb891c493a79.md",
+      "sha256": "e7c6af6552daa3f948e51b0da1e7af6f36ed535b9e88f25f797a7f2233c58205"
+    },
+    {
+      "bytes": 1151,
+      "path": "dynamic/生活/2026-10-20 03-50-25 想要自主生活但近期承受多重压力_a67ebc1058cf.md",
+      "sha256": "27c0179265001aebc1093ec6fb43086f3c71aedf82210b590626c2cd7fb0195f"
+    },
+    {
+      "bytes": 675,
+      "path": "dynamic/生活/2026-10-21 12-32-50 日常喜好与照顾方式_f2e0ddf6bf4b.md",
+      "sha256": "b9fe259bf6987407cfff662305f93201cc440a0d18e7ed1a6dbd0671792ff36c"
+    },
+    {
+      "bytes": 871,
+      "path": "dynamic/生活/2026-10-21 12-32-50 自媒体与时间管理_7982b80f82a5.md",
+      "sha256": "7ada3912692f8e1c5a658eaa7264b23712dc0f8552f2070abbbb20839aeb0f5b"
+    },
+    {
+      "bytes": 812,
+      "path": "dynamic/生活/2026-10-27 04-27-18 对自身节奏与情绪的认识_2825893caf3e.md",
+      "sha256": "a61f7c68c5223c82a54d73b922f54c44b54a792efd5ae91afb3cad854a2587e6"
+    },
+    {
+      "bytes": 1057,
+      "path": "dynamic/生活/2026-11-07 03-02-04 妈妈到访与居住边界的压力_3b110a604c02.md",
+      "sha256": "d19ef7a8156ce8fb261c96fd36a10c179903f8d28b964976fb2984b63143bc60"
+    },
+    {
+      "bytes": 1075,
+      "path": "dynamic/生活/2026-11-16 11-43-51 2026年11月旅行奔波亲人离世与休息_ecd4006e04ce.md",
+      "sha256": "8b9f874f231d28836ef3f1dc968b346dafb44545f2f1ea74d89df2bb80c59f61"
+    },
+    {
+      "bytes": 1110,
+      "path": "dynamic/生活/2026-11-16 11-43-54 一一的消费习惯想犒劳自己也珍惜安全感_82e35a56262e.md",
+      "sha256": "fff13b2cbb782e0ac97ab6136feea725ee76b2a6ddb281b47b68f9dd10a22bbd"
+    },
+    {
+      "bytes": 1248,
+      "path": "dynamic/生活/2026-11-16 11-43-59 一一的作息精力与活动节奏_d50bc82ee146.md",
+      "sha256": "284f54b3bc5766594637d323507e71eafab6ca9c14be5a8ea09656d40b446590"
+    },
+    {
+      "bytes": 1352,
+      "path": "dynamic/目标/2026-10-20 14-34-47 求职学习监督约定_8c377f7bd87c.md",
+      "sha256": "00ce2ad9d221e8016b15b489111eb8c0a214676cce6682be742f9155e69f264a"
+    },
+    {
+      "bytes": 1038,
+      "path": "dynamic/职业/2026-10-20 03-50-25 对当前工作感到耗竭认真考虑跳槽_066782b3c458.md",
+      "sha256": "a78d69bd02b6bad3ee8b550a130e40ecd0797528be2bb3b0383c6063f1c14dbc"
+    },
+    {
+      "bytes": 610,
+      "path": "dynamic/职业/2026-10-21 12-32-50 职业处境与转职心愿_d984afc8c292.md",
+      "sha256": "3a246a32429f4226fe7c1340424203b7413bfd7c99f1c3da791fd3414a326eea"
+    },
+    {
+      "bytes": 911,
+      "path": "dynamic/职业/2026-11-10 15-26-53 近期工作与经济焦虑_6f34ef4cde9b.md",
+      "sha256": "7dcc1695829d270f01f370859f360e6b38641d9d3736a153e829fc5754ea481a"
+    },
+    {
+      "bytes": 1111,
+      "path": "dynamic/职业/2026-11-16 11-43-51 请假交接复盘主动性与职场边界_e925b039370d.md",
+      "sha256": "e7b081470609880147a9fce9eaf29502fb998a6ceed55be91f78c65138ad3777"
+    },
+    {
+      "bytes": 1369,
+      "path": "dynamic/职业/2026-11-16 11-43-55 2026年11月职业方向与当前公司的现实判断_d0d5beb69220.md",
+      "sha256": "717cc48f8f29a9596f5426d68a057eb45e3e3dd66fbdf9c1a45cbab6b40afc3e"
+    },
+    {
+      "bytes": 2609,
+      "path": "dynamic/角色设定/2026-11-12 14-47-30 沈砚舟私人爱好与生活习惯番外设定_cbf48a53b0ce.md",
+      "sha256": "4b9ffa4a5e3bc9b044bac4f1e9b6beb9ad15eafc78c06c771ff2a6e5e4cafaef"
+    },
+    {
+      "bytes": 946,
+      "path": "dynamic/计划/2026-10-22 09-32-43 2026-10-22下周高精力期计划_a9ab68d4a055.md",
+      "sha256": "2b244113497f0d2099ee187efe68f5bd9059eaff856dcbf555f648085fe240fb"
+    },
+    {
+      "bytes": 1372,
+      "path": "dynamic/计划/2026-11-10 15-26-53 14天最小成长计划与阅读实践_2d9a4b04e864.md",
+      "sha256": "e01a4c6e11cb397935244d3f869a91e272ed7982fb35a603f7659c943b00fe02"
+    },
+    {
+      "bytes": 948,
+      "path": "dynamic/记忆系统/2026-10-14 09-25-11 OmbreBrain 自主记忆授权_f459e9e4b99f.md",
+      "sha256": "082e05cf7cef953a2b5792fa24ae3c4d02c396d2af390635fc2c671b132db445"
+    },
+    {
+      "bytes": 1573,
+      "path": "dynamic/项目/2026-10-21 12-32-50 归舟与AI工程师求职方向_8998f10f7cc5.md",
+      "sha256": "b79e782a928e3f47eda9670467b96d2772b1f6c98e44b01f8a208fa5c89a7054"
+    },
+    {
+      "bytes": 1302,
+      "path": "dynamic/项目/2026-10-24 17-10-27 open-watch-cinema首次实测结论与待修问题_9372a8409ad9.md",
+      "sha256": "278fc1e4f827a636427404cf490663b5081ce3b1c87f830a0f82d2527c134e98"
+    },
+    {
+      "bytes": 862,
+      "path": "plans/resolved/2026-10-14 09-26-37_bb87f17312a3.md",
+      "sha256": "88f4d63f07b325da9d3301aef2e9e45864eb65b26f9da5230d0c69e966b5a60f"
+    },
+    {
+      "bytes": 1153,
+      "path": "plans/resolved/2026-10-20 08-02-14_fba2bc16139d.md",
+      "sha256": "23627aa53f384ca4be75c87dfe659bc2d653621608274dfcacbd42b6c5353770"
+    }
+  ],
+  "generated_at": "2026-11-17T01:09:32+00:00",
+  "path_prefix": "ombre",
+  "repo": "ninecloud111/ob",
+  "schema_version": 1,
+  "source": "ombre-brain",
+  "source_refs_complete": true,
+  "total_bytes": 408712
+}
